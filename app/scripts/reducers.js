@@ -24,6 +24,7 @@ var form = formReducer.plugin({
   reward: (state = {}, action) => {
     switch (action.type) {
       case FORM_CHANGE:
+        //做点什么
         return Object.assign({}, state, {values: action.reward})
       default:
         return state

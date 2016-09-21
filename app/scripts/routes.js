@@ -2,9 +2,9 @@ import React from 'react';
 import { Router, Route, IndexRoute,hashHistory} from 'react-router';
 
 import App from './containers/App'
-import Home from './pages/home.jsx';
+import Home from './pages/Form.jsx';
 import AnotherPage from './pages/AnotherPage.jsx'
-import NotFound from './pages/notFound.jsx';
+import NotFound from './pages/NotFound.jsx';
 
 const routes = (
   <Router history={hashHistory}>
