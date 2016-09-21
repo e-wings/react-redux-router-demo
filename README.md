@@ -6,7 +6,7 @@ This is a react-redux version Counter, integrated redux-router, redux-form, and 
 
 This starterkit does not include some fancy UI stuff but is a lightweight starting point for your next react app.
 
-## Get the kit
+## Installation
 
 ```
 $ git clone https://github.com/e-wings/react-redux-router-demo.git
@@ -14,12 +14,4 @@ $ cd react-redux-router-demo
 $ npm install
 $ gulp
 
-```
-
-## Installation
-
-Install all dependencies. 
-
-```
-$ cd react-redux-demo && npm install
 ```
