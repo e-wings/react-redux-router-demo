@@ -9,8 +9,10 @@ This starterkit does not include some fancy UI stuff but is a lightweight starti
 ## Get the kit
 
 ```
-$ git clone https://github.com/e-wings/react-redux-demo.git
-
+$ git clone https://github.com/e-wings/react-redux-router-demo.git
+$ cd react-redux-router-demo
+$ npm install
+$ gulp
 
 ```
 
