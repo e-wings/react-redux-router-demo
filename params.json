@@ -1,0 +1,6 @@
+{
+  "name": "React-redux-router-form-demo",
+  "tagline": "A demo of combainin reactredux, react-router, redux-form",
+  "body": "# React Redux Router Form Demo\r\n\r\nAnother redux demo with no router: [react-redux-demo](https://github.com/e-wings/react-redux-demo)\r\n\r\nThis is a react-redux version Counter, integrated redux-router, redux-form, and based on [gulp](https://github.com/gulpjs/gulp), [stylus](https://github.com/LearnBoost/stylus) and [webpack](https://github.com/webpack/webpack). The internal data flow is handled with  [react-edux](https://github.com/reactjs/react-redux) .\r\n\r\nMore info, more function about redux-form: [redux-form](http://redux-form.com/6.0.2/docs/GettingStarted.md/)\r\n\r\n## Installation\r\n\r\n```\r\n$ git clone https://github.com/e-wings/react-redux-router-demo.git\r\n$ cd react-redux-router-demo\r\n$ npm install\r\n$ gulp\r\n\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
